@@ -1,4 +1,4 @@
-# 👨‍💻🕵️ Analista de Segurança da Informação
+# 👨‍💻🕵️ Engenheiro Segurança Ofensiva | Hacker Etico
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-rony-9166491a1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabriciorony)
